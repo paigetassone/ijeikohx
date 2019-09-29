@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yahchohhi.jeroensteenbeeke.nl/sitemap.xml
